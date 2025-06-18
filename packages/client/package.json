@@ -1,6 +1,6 @@
 {
-  "name": "@sergiubut/client",
-  "version": "0.1.8",
+  "name": "@bewstaf/convai-widget-embed",
+  "version": "0.1.9",
   "description": "AI Agent Widget",
   "main": "./dist/lib.umd.js",
   "module": "./dist/lib.module.js",
