@@ -98,9 +98,6 @@ export const Wrapper = memo(function Wrapper() {
           <ErrorModal sawError={sawError} />
         </Root>
       </InOutTransition>
-      <Root className={className} style={HIDDEN_STYLE}>
-        <PoweredBy />
-      </Root>
     </>
   );
 });
