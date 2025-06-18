@@ -1,6 +1,6 @@
 {
   "name": "@sergiubut/client",
-  "version": "0.1.7.1",
+  "version": "0.1.8",
   "description": "AI Agent Widget",
   "main": "./dist/lib.umd.js",
   "module": "./dist/lib.module.js",
