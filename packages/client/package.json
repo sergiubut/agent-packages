@@ -1,7 +1,7 @@
 {
   "name": "@bewstaf/convai-widget-embed",
   "version": "0.1.9",
-  "description": "AI Agent Widget",
+  "description": "AI Agent Widget modified",
   "main": "./dist/lib.umd.js",
   "module": "./dist/lib.module.js",
   "source": "src/index.ts",
